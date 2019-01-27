@@ -2,7 +2,7 @@
 Python scripts to send email and Whatsapp message.
 
 
-Send Email using SendGrid(with Attachment)
+Send Email using SendGrid (with Attachment)
 -------------------------------------------------------------
 1.Run pip install sendgrid.<br />
 2.Create a SendGrid account.<br />
